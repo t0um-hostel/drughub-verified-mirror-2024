@@ -24,3 +24,5 @@ If your goal is to explore everything this darknet marketplace offers, make cert
 
 <a href="http://drughub2pwzkzjtcuarf5p2f6sxmh7tjuiyw4uwcah4hjtf47oipciad.onion"><img src="/static/tooltip.webp" alt="image" style="max-width: 100%;"><a>  
 <a href="http://drughub2pwzkzjtcuarf5p2f6sxmh7tjuiyw4uwcah4hjtf47oipciad.onion"><img src="/static/buffer.webp" alt="image" style="max-width: 100%;"><a>
+
+Update:  01 October 2025 url is back online and live
